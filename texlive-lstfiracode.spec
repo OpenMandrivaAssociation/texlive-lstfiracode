@@ -1,6 +1,6 @@
 Name:		texlive-lstfiracode
 Version:	49503
-Release:	1
+Release:	2
 Summary:	Use Fira Code font for listings
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lstfiracode
