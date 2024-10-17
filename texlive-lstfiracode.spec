@@ -3,7 +3,7 @@ Version:	49503
 Release:	2
 Summary:	Use Fira Code font for listings
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lstfiracode
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/lstfiracode
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lstfiracode.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lstfiracode.doc.r%{version}.tar.xz
